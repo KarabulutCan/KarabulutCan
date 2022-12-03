@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @KarabulutCan
+- 👋 Hi, I’m @KarabulutCan.
+- 🖥️ BSc Computer Engineering - MSc Software Engineering
 - 👀 I’m interested in .Net, Entity Framework,SQL TailwindCss&Bootstrap, Design Patterns, Layered Architecture, Next Generation Web Services & APIs, Flutter & Dart .
 - 🌱 I’m currently learning React and Firebase
 - 💞️ I’m looking to collaborate on Game theory algorithms in competitive programming
