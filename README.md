@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarabulutCan.
 - 🖥️ BSc Computer Engineering - MSc Software Engineering
 - 👀 I’m expert in .Net, Entity Framework, SQL, TailwindCss&Bootstrap, Design Patterns, Layered Architecture, Next Generation Web Services & APIs, Microservices, Web Socket, Linux Dev. and Docker .
-- 🌱 I’m currently learning React and Firebase
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Game theory algorithms in competitive programming
 - 📫 How to reach me cankarabulut23@gmail.com
 
